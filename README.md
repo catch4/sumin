@@ -6,9 +6,9 @@
 
 ### **commit message**
 `<type>: <problem_num>`
-* ✔ solved: 처음부터 내 힘으로 푼 것
-* ⏳ unsolved(n): 고민하다가 풀이 확인한 것/ 내 힘으로 풀지 못한 것 (다시 푼 횟수를 n으로 표시하기)
-* ❌ failed: 풀지 못 한 것
+* ✔    solved: 처음부터 내 힘으로 푼 것
+* ⏳    unsolved(n): 고민하다가 풀이 확인한 것/ 내 힘으로 풀지 못한 것 (다시 푼 횟수를 n으로 표시하기)
+* ❌    failed: 풀지 못 한 것
   
 
 
@@ -27,12 +27,12 @@
 <br>
 
 ### **6월 1주차 (6/1~6/7)**
- | 문제                      | 출처                                                                 | 코드                                                                                                                          | 비고     |
- | ------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------- |
- | [PRO] N으로 표현          | [문제링크](https://programmers.co.kr/learn/courses/30/lessons/42895) | [코드링크](https://github.com/catch4/sumin/blob/master/June_week1/n%EC%9C%BC%EB%A1%9C%ED%91%9C%ED%98%84.cpp)                  | unsolved |
- | [PRO] 추석 트래픽         | [문제링크](https://programmers.co.kr/learn/courses/30/lessons/17676) |                                                                                                                               | ✔        | [코드링크](https://github.com/catch4/sumin/blob/master/June_week1/%EC%B6%94%EC%84%9D%ED%8A%B8%EB%9E%98%ED%94%BD.py) |
- | [BOJ] 1107. 리모컨        | [문제링크](https://www.acmicpc.net/problem/1107)                     | [코드링크](https://github.com/catch4/sumin/blob/master/June_week1/%EB%A6%AC%EB%AA%A8%EC%BB%A8.cpp)                            | ⏳        |
- | [BOJ] 14503. 로봇청소기   | [문제링크](https://www.acmicpc.net/problem/14503)                    | [코드링크](https://github.com/catch4/sumin/blob/master/June_week1/%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0.cpp)          | ✔        |
- | [BOJ] 1939. 중량제한      | [문제링크](https://www.acmicpc.net/problem/1939)                     | [코드링크](https://github.com/catch4/sumin/blob/master/June_week1/%EC%A4%91%EB%9F%89%EC%A0%9C%ED%95%9C.cpp)                   | ⏳        |
- | [BOJ] 2602. 돌다리 건너기 | [문제링크](https://www.acmicpc.net/problem/2602)                     | [코드링크](https://github.com/catch4/sumin/blob/master/June_week1/%EB%8F%8C%EB%8B%A4%EB%A6%AC%EA%B1%B4%EB%84%88%EA%B8%B0.cpp) | ⏳        |
- | [BOJ] 1637. 날카로운 눈   | [문제링크](https://www.acmicpc.net/problem/1637)                     | [코드링크](https://github.com/catch4/sumin/blob/master/June_week1/%EB%82%A0%EC%B9%B4%EB%A1%9C%EC%9A%B4%EB%88%88.cpp)          | ⏳        |
+ | 문제                      | 출처                                                                 | 코드                                                                                                                          | 비고 |
+ | ------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---- |
+ | [PRO] N으로 표현          | [문제링크](https://programmers.co.kr/learn/courses/30/lessons/42895) | [코드링크](https://github.com/catch4/sumin/blob/master/June_week1/n%EC%9C%BC%EB%A1%9C%ED%91%9C%ED%98%84.cpp)                  | ⏳    |
+ | [PRO] 추석 트래픽         | [문제링크](https://programmers.co.kr/learn/courses/30/lessons/17676) | [코드링크](https://github.com/catch4/sumin/blob/master/June_week1/%EC%B6%94%EC%84%9D%ED%8A%B8%EB%9E%98%ED%94%BD.py)           | ✔    | [코드링크](https://github.com/catch4/sumin/blob/master/June_week1/%EC%B6%94%EC%84%9D%ED%8A%B8%EB%9E%98%ED%94%BD.py) |
+ | [BOJ] 1107. 리모컨        | [문제링크](https://www.acmicpc.net/problem/1107)                     | [코드링크](https://github.com/catch4/sumin/blob/master/June_week1/%EB%A6%AC%EB%AA%A8%EC%BB%A8.cpp)                            | ⏳    |
+ | [BOJ] 14503. 로봇청소기   | [문제링크](https://www.acmicpc.net/problem/14503)                    | [코드링크](https://github.com/catch4/sumin/blob/master/June_week1/%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0.cpp)          | ✔    |
+ | [BOJ] 1939. 중량제한      | [문제링크](https://www.acmicpc.net/problem/1939)                     | [코드링크](https://github.com/catch4/sumin/blob/master/June_week1/%EC%A4%91%EB%9F%89%EC%A0%9C%ED%95%9C.cpp)                   | ⏳    |
+ | [BOJ] 2602. 돌다리 건너기 | [문제링크](https://www.acmicpc.net/problem/2602)                     | [코드링크](https://github.com/catch4/sumin/blob/master/June_week1/%EB%8F%8C%EB%8B%A4%EB%A6%AC%EA%B1%B4%EB%84%88%EA%B8%B0.cpp) | ⏳    |
+ | [BOJ] 1637. 날카로운 눈   | [문제링크](https://www.acmicpc.net/problem/1637)                     | [코드링크](https://github.com/catch4/sumin/blob/master/June_week1/%EB%82%A0%EC%B9%B4%EB%A1%9C%EC%9A%B4%EB%88%88.cpp)          | ⏳    |
