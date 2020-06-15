@@ -14,16 +14,16 @@
 
 ### **6월 2주차 (6/8~14)**
 
- | 문제                         | 출처                                                                   | 코드                                                                                                                                     | 비고 |
- | ---------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---- |
- | [PRO] 프렌즈 4블록           | [[문제링크](https://programmers.co.kr/learn/courses/30/lessons/17679)] | [[코드링크](https://github.com/catch4/sumin/blob/master/June_week2/%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.cpp)]                  | ❌    |
- | [PRO] 파일명 정렬            | [[문제링크](https://programmers.co.kr/learn/courses/30/lessons/17686)] | [[코드링크](https://github.com/catch4/sumin/blob/master/June_week2/%ED%8C%8C%EC%9D%BC%EB%AA%85%EC%A0%95%EB%A0%AC.py)]                    | ✔    |
- | [BOJ] 2504. 괄호의 값        | [[문제링크](https://www.acmicpc.net/problem/2504)]                     | [[코드링크](https://github.com/catch4/sumin/blob/master/June_week2/%EA%B4%84%ED%98%B8%EC%9D%98%EA%B0%92.py)]                             | ⏳    |
- | [BOJ] 1916. 최소비용 구하기  | [[문제링크](https://www.acmicpc.net/problem/1916)]                     | [[코드링크](https://github.com/catch4/sumin/blob/master/June_week2/%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%EA%B5%AC%ED%95%98%EA%B8%B0.cpp)] | ✔    |
- | [BOJ] 16235. 나무 재테크     | [[문제링크](https://www.acmicpc.net/problem/16235)]                    | [[코드링크](https://github.com/catch4/sumin/blob/master/June_week2/%EB%82%98%EB%AC%B4%EC%A0%9C%ED%83%9C%ED%81%AC.cpp)]                   | ⏳    |
- | [BOJ] 2661. 좋은수열         | [[문제링크](https://www.acmicpc.net/problem/2661)]                     | [[코드링크](https://github.com/catch4/sumin/blob/master/June_week2/%EC%A2%8B%EC%9D%80%EC%88%98%EC%97%B4.cpp)]                            | ✔    |
- | [BOJ] 2352. 반도체 설계      | [[문제링크](https://www.acmicpc.net/problem/2352)]                     | [[코드링크](https://github.com/catch4/sumin/blob/master/June_week2/%EB%B0%98%EB%8F%84%EC%B2%B4%EC%84%A4%EA%B3%84.cpp)]                   | ⏳    |
- | [BOJ] 15898. 피아의 아틀리에 | [[문제링크](https://www.acmicpc.net/problem/15898)]                    | [[코드링크](https://github.com/catch4/sumin/blob/master/June_week2/%ED%94%BC%EC%95%84%EC%9D%98%EC%95%84%ED%8B%80%EB%A6%AC%EC%97%90.cpp)] | ❌    |
+ | 문제                         | 출처                                                                 | 코드                                                                                                                                   | 비고 |
+ | ---------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+ | [PRO] 프렌즈 4블록           | [문제링크](https://programmers.co.kr/learn/courses/30/lessons/17679) | [코드링크](https://github.com/catch4/sumin/blob/master/June_week2/%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.cpp)                  | ❌    |
+ | [PRO] 파일명 정렬            | [문제링크](https://programmers.co.kr/learn/courses/30/lessons/17686) | [코드링크](https://github.com/catch4/sumin/blob/master/June_week2/%ED%8C%8C%EC%9D%BC%EB%AA%85%EC%A0%95%EB%A0%AC.py)                    | ✔    |
+ | [BOJ] 2504. 괄호의 값        | [문제링크](https://www.acmicpc.net/problem/2504)                     | [코드링크](https://github.com/catch4/sumin/blob/master/June_week2/%EA%B4%84%ED%98%B8%EC%9D%98%EA%B0%92.py)                             | ⏳    |
+ | [BOJ] 1916. 최소비용 구하기  | [문제링크](https://www.acmicpc.net/problem/1916)                     | [코드링크](https://github.com/catch4/sumin/blob/master/June_week2/%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%EA%B5%AC%ED%95%98%EA%B8%B0.cpp) | ✔    |
+ | [BOJ] 16235. 나무 재테크     | [문제링크](https://www.acmicpc.net/problem/16235)                    | [코드링크](https://github.com/catch4/sumin/blob/master/June_week2/%EB%82%98%EB%AC%B4%EC%A0%9C%ED%83%9C%ED%81%AC.cpp)                   | ⏳    |
+ | [BOJ] 2661. 좋은수열         | [문제링크](https://www.acmicpc.net/problem/2661)                     | [코드링크](https://github.com/catch4/sumin/blob/master/June_week2/%EC%A2%8B%EC%9D%80%EC%88%98%EC%97%B4.cpp)                            | ✔    |
+ | [BOJ] 2352. 반도체 설계      | [문제링크](https://www.acmicpc.net/problem/2352)                     | [코드링크](https://github.com/catch4/sumin/blob/master/June_week2/%EB%B0%98%EB%8F%84%EC%B2%B4%EC%84%A4%EA%B3%84.cpp)                   | ⏳    |
+ | [BOJ] 15898. 피아의 아틀리에 | [문제링크](https://www.acmicpc.net/problem/15898)                    | [코드링크](https://github.com/catch4/sumin/blob/master/June_week2/%ED%94%BC%EC%95%84%EC%9D%98%EC%95%84%ED%8B%80%EB%A6%AC%EC%97%90.cpp) | ❌    |
 <br>
 
 ### **6월 1주차 (6/1~6/7)**
