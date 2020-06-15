@@ -6,8 +6,9 @@
 
 ### **commit message**
 `<type>: <problem_num>`
-* solved: 처음부터 내 힘으로 푼 것
-* unsolved(n): 고민하다가 풀이 확인한 것/ 내 힘으로 풀지 못한 것 (다시 푼 횟수를 n으로 표시하기)
+* ✔ solved: 처음부터 내 힘으로 푼 것
+* ⏳ unsolved(n): 고민하다가 풀이 확인한 것/ 내 힘으로 풀지 못한 것 (다시 푼 횟수를 n으로 표시하기)
+* ❌ failed: 풀지 못 한 것
   
 
 
