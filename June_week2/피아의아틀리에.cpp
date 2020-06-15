@@ -22,7 +22,7 @@ void init(bool init_gama, bool init_ingr) {
                 gama[i][j] = {0, 'W'};
     // 재료 초기화
     if (init_ingr)
-        for (int i = 0; i < 10; ++)
+        for (int i = 0; i < 10; i++)
             for (int j = 0; j < 4; j++)
                 for (int k = 0; k < 4; k++)
                     ingr[i][j][k] = {0, 'W'};
@@ -57,6 +57,23 @@ void setPosition(int position, int ingrNum) {
     }
 }
 
+void cal() {
+    int r = 0, b = 0, g = 0, y = 0;
+    for (int _x = 0; _x < 5; _x++) {
+        for (int _y = 0; _y < 5; _y++) {
+            if (gama[_x][_y].color == 'R')
+                r += gama[_x][_y].quality;
+            else if (gama[_x][_y].color == 'B')
+                b += gama[_x][_y].quality;
+            else if (gama[_x][_y].color == 'G')
+                g += gama[_x][_y].quality;
+            else if (gama[_x][_y].color == 'Y')
+                y += gama[_x][_y].quality;
+        }
+    }
+    answer = max(answer, 7 * r + 5 * b + 3 * g + 2 * y);
+}
+
 void calculate(int a, int b, int c) {
     // 각 (0,0),(1,0),(0,1),(1,1)에서 시작할 수 있도록!
     for (int i = 0; i < 4; i++) {
@@ -73,20 +90,7 @@ void calculate(int a, int b, int c) {
                             setPosition(i, a);
                             setPosition(j, b);
                             setPosition(k, c);
-                            int r = 0, b = 0, g = 0, y = 0;
-                            for (int _x = 0; _x < 5; _x++) {
-                                for (int _y = 0; _y < 5; _y++) {
-                                    if (gama[_x][_y].color == 'R')
-                                        r += gama[_x][_y].quality;
-                                    else if (gama[_x][_y].color == 'B')
-                                        b += gama[_x][_y].quality;
-                                    else if (gama[_x][_y].color == 'G')
-                                        g += gama[_x][_y].quality;
-                                    else if (gama[_x][_y].color == 'Y')
-                                        y += gama[_x][_y].quality;
-                                }
-                            }
-                            answer = max(answer, 7 * r + 5 * b + 3 * g + 2 * y);
+                            cal();
                         }
                     }
                 }
