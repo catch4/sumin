@@ -15,6 +15,21 @@
 
 </br>
 
+### **6월 4주차 (6/22~28)**
+
+| 문제                | 출처                                                         | 코드                                                         | 비고 |
+| ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| [PRO] 후보키        | [문제링크](https://programmers.co.kr/learn/courses/30/lessons/42890) | [코드링크](https://github.com/catch4/sumin/blob/master/June_week4/%ED%9B%84%EB%B3%B4%ED%82%A4.cpp) | ⏳    |
+| [PRO] 단체사진찍기  | [문제링크](https://programmers.co.kr/learn/courses/30/lessons/1835) | [코드링크](https://github.com/catch4/sumin/blob/master/June_week4/%EB%8B%A8%EC%B2%B4%EC%82%AC%EC%A7%84%EC%B0%8D%EA%B8%B0.cpp) | ✔    |
+| [BOJ] 미로 탐색     | [문제링크](https://www.acmicpc.net/problem/2178)             | [코드링크](https://github.com/catch4/sumin/blob/master/June_week4/%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89.cpp) | ✔    |
+| [BOJ] 사다리 조작   | [문제링크](https://www.acmicpc.net/problem/15684)            | [코드링크](https://github.com/catch4/sumin/blob/master/June_week4/%EC%82%AC%EB%8B%A4%EB%A6%AC%EC%A1%B0%EC%9E%91.cpp) | ⏳    |
+| [BOJ] 괄호 추가하기 | [문제링크](https://www.acmicpc.net/problem/16637)            | [코드링크](https://github.com/catch4/sumin/blob/master/June_week4/%EA%B4%84%ED%98%B8%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0.cpp) | ✔    |
+| [BOJ] 아맞다우산    | [문제링크](https://www.acmicpc.net/problem/17244)            | [코드링크](https://github.com/catch4/sumin/blob/master/June_week4/%EC%95%84%EB%A7%9E%EB%8B%A4%EC%9A%B0%EC%82%B0.cpp) | ⏳    |
+| [BOJ] 구슬 탈출 2   | [문제링크](https://www.acmicpc.net/problem/13460)            | [코드링크](https://github.com/catch4/sumin/blob/master/June_week4/%EA%B5%AC%EC%8A%AC%ED%83%88%EC%B6%9C2.cpp) | ✔    |
+| [BOJ] 친구 네트워크 | [문제링크](https://www.acmicpc.net/problem/4195)             | [코드링크](https://github.com/catch4/sumin/blob/master/June_week4/%EC%B9%9C%EA%B5%AC%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.cpp) | ⏳    |
+
+</br>
+
 ### **6월 3주차 (6/15~21)**
 
 | 문제                                  | 출처                                                                              | 코드                                                                                                                                                              | 비고 |
