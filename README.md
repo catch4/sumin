@@ -15,6 +15,19 @@
 
 </br>
 
+| 문제                  | 출처                                              | 코드                                                         | 비고 |
+| --------------------- | ------------------------------------------------- | ------------------------------------------------------------ | ---- |
+| [PRO] 라면공장        | [문제링크]()                                      | [코드링크]()                                                 | ⏳    |
+| [PRO] 디스크 컨트롤러 | [문제링크]()                                      | [코드링크]()                                                 | ⏳    |
+| [BOJ] 공유기 설치     | [문제링크](https://www.acmicpc.net/problem/2110)  | [코드링크](https://github.com/catch4/sumin/blob/master/July_week1/%EA%B3%B5%EC%9C%A0%EA%B8%B0%EC%84%A4%EC%B9%98.cpp) | ✔    |
+| [BOJ] 연구소          | [문제링크](https://www.acmicpc.net/problem/14502) | [코드링크](https://github.com/catch4/sumin/blob/master/July_week1/%EC%97%B0%EA%B5%AC%EC%86%8C.cpp) | ✔    |
+| [BOJ] 인구 이동       | [문제링크](https://www.acmicpc.net/problem/16234) | [코드링크](https://github.com/catch4/sumin/blob/master/July_week1/%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99.cpp) | ✔    |
+| [BOJ] 행성 연결       | [문제링크](https://www.acmicpc.net/problem/16398) | [코드링크](https://github.com/catch4/sumin/blob/master/July_week1/%ED%96%89%EC%84%B1%EC%97%B0%EA%B2%B0.cpp) | ✔    |
+| [BOJ] 경사로          | [문제링크](https://www.acmicpc.net/problem/14890) | [코드링크](https://github.com/catch4/sumin/blob/master/July_week1/%EA%B2%BD%EC%82%AC%EB%A1%9C.cpp) | ✔    |
+| [BOJ] 고층 빌딩       | [문제링크](https://www.acmicpc.net/problem/1328)  | [코드링크](https://github.com/catch4/sumin/blob/master/July_week1/%EA%B3%A0%EC%B8%B5%EB%B9%8C%EB%94%A9.cpp) | ⏳    |
+
+</br>
+
 ### **6월 4주차 (6/22~28)**
 
 | 문제                | 출처                                                         | 코드                                                         | 비고 |
